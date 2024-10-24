@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj": {}
+    "C:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj": {}
   },
   "projects": {
-    "c:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj": {
+    "C:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj",
+        "projectUniqueName": "C:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj",
         "projectName": "BookStoreDB",
-        "projectPath": "c:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj",
+        "projectPath": "C:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj",
         "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\obj\\",
+        "outputPath": "C:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
