@@ -1,33 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj": {}
+    "C:\\Users\\italo\\programando\\backend\\BookAPI\\BookStoreDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj": {
+    "C:\\Users\\italo\\programando\\backend\\BookAPI\\BookStoreDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj",
+        "projectUniqueName": "C:\\Users\\italo\\programando\\backend\\BookAPI\\BookStoreDB.csproj",
         "projectName": "BookStoreDB",
-        "projectPath": "C:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\BookStoreDB.csproj",
+        "projectPath": "C:\\Users\\italo\\programando\\backend\\BookAPI\\BookStoreDB.csproj",
         "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\italo\\programando\\backend\\csharp\\BookStoreDB\\obj\\",
+        "outputPath": "C:\\Users\\italo\\programando\\backend\\BookAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -43,12 +40,12 @@
         }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.0-preview.4.24267.6, )"
+              "version": "[8.0.0, )"
             },
             "MongoDB.Driver": {
               "target": "Package",
@@ -78,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.4.24267.66/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
